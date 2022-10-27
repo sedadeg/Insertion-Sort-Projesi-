@@ -1,7 +1,6 @@
 # Insertion-Sort-Projesi-
 www.patika.dev
 
-
 22,27,16,2,18,6 dizisini insertion sorta göre aşamalarını yazınız.
 22,27,16,2,18,6 (n)
 2,27,16,22,18,6 (n-1)
